@@ -1,0 +1,28 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Packaged skills (generated artifacts — source SKILL.md is the truth)
+*.skill
+*.zip
+
+# Skill evaluation workspaces (generated during testing)
+*-workspace/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+
+# Ignore idea files
+.idea/
